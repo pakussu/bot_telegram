@@ -1,3 +1,2 @@
-firebase-admin
-python-telegram-bot
-grpcio
+firebase-admin>=6.2.0
+python-telegram-bot>=20.0
